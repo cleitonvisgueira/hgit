@@ -1,0 +1,3752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20171123004000 -0200" stop="20171123014000 -0200" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123014000 -0200" stop="20171123024000 -0200" channel="ESPN">
+    <title lang="pt">ESPN Filmes: 30 For 30: Tommy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123024000 -0200" stop="20171123034000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123034000 -0200" stop="20171123051000 -0200" channel="ESPN">
+    <title lang="pt">Bola da Vez</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123051000 -0200" stop="20171123070000 -0200" channel="ESPN">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123070000 -0200" stop="20171123080000 -0200" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123080000 -0200" stop="20171123090000 -0200" channel="ESPN">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123090000 -0200" stop="20171123105500 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123105500 -0200" stop="20171123115500 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123115500 -0200" stop="20171123143000 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123143000 -0200" stop="20171123150000 -0200" channel="ESPN">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123150000 -0200" stop="20171123170000 -0200" channel="ESPN">
+    <title lang="pt">Lazio x Vitesse - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123170000 -0200" stop="20171123190000 -0200" channel="ESPN">
+    <title lang="pt">Milan x Austria Viena - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123190000 -0200" stop="20171123204000 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123204000 -0200" stop="20171123214000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123214000 -0200" stop="20171123224000 -0200" channel="ESPN">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123224000 -0200" stop="20171123234000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123234000 -0200" stop="20171124003000 -0200" channel="ESPN">
+    <title lang="pt">Espn Filmes: 30 For 30: Nature Boy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124003000 -0200" stop="20171124030000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings - Vivo</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124030000 -0200" stop="20171124050000 -0200" channel="ESPN">
+    <title lang="pt">Surfe Compacto: WSL Bells Beach (AUS)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124050000 -0200" stop="20171124060000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124060000 -0200" stop="20171124070000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124070000 -0200" stop="20171124080000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124080000 -0200" stop="20171124103000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124103000 -0200" stop="20171124130000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124130000 -0200" stop="20171124140000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124140000 -0200" stop="20171124143000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124143000 -0200" stop="20171124180000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Minnesota Vikings x Detroit Lions - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124180000 -0200" stop="20171124183000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124183000 -0200" stop="20171124220000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Los Angeles Chargers x Dallas Cowboys - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124220000 -0200" stop="20171124221500 -0200" channel="ESPN">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124221500 -0200" stop="20171125000000 -0200" channel="ESPN">
+    <title lang="pt">NFL: New York Giants x Washington Redskin - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125000000 -0200" stop="20171125020000 -0200" channel="ESPN">
+    <title lang="pt">Columbus Crew SC x Toronto FC</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125020000 -0200" stop="20171125030000 -0200" channel="ESPN">
+    <title lang="pt">Espn League</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125030000 -0200" stop="20171125040000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125040000 -0200" stop="20171125043000 -0200" channel="ESPN">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125043000 -0200" stop="20171125070000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125070000 -0200" stop="20171125090000 -0200" channel="ESPN">
+    <title lang="pt">Manchester United x Newcastle</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125090000 -0200" stop="20171125100000 -0200" channel="ESPN">
+    <title lang="pt">ESPN AGORA</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125100000 -0200" stop="20171125110000 -0200" channel="ESPN">
+    <title lang="pt">Compacto NFL</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125110000 -0200" stop="20171125125500 -0200" channel="ESPN">
+    <title lang="pt">Surfe Compacto: WSL Fiji Pro (FIJ)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125125500 -0200" stop="20171125145500 -0200" channel="ESPN">
+    <title lang="pt">Astana x Villarreal - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125145500 -0200" stop="20171125170000 -0200" channel="ESPN">
+    <title lang="pt">Konyaspor x Olympique de Marselha - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125170000 -0200" stop="20171125190000 -0200" channel="ESPN">
+    <title lang="pt">Everton x Atalanta - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125190000 -0200" stop="20171125193000 -0200" channel="ESPN">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125193000 -0200" stop="20171125200000 -0200" channel="ESPN">
+    <title lang="pt">ATP World Tour Semanal</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125200000 -0200" stop="20171125210000 -0200" channel="ESPN">
+    <title lang="pt">Poker Stars</title>
+    <desc lang="pt">O pôquer, classificado com um esporte mental, é o jogo de cartas que mais se popularizou nas últimas décadas. As transmissões dos melhores eventos profissionais estão nos canais ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125210000 -0200" stop="20171125230000 -0200" channel="ESPN">
+    <title lang="pt">Milan x Austria Viena</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125230000 -0200" stop="20171125233000 -0200" channel="ESPN">
+    <title lang="pt">Olhar ESPN W</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125233000 -0200" stop="20171126004000 -0200" channel="ESPN">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126004000 -0200" stop="20171126014000 -0200" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126014000 -0200" stop="20171126024000 -0200" channel="ESPN">
+    <title lang="pt">ESPN Filmes: 30 For 30: Tommy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126024000 -0200" stop="20171126034000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126034000 -0200" stop="20171126051000 -0200" channel="ESPN">
+    <title lang="pt">Bola da Vez</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126051000 -0200" stop="20171126070000 -0200" channel="ESPN">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126070000 -0200" stop="20171126080000 -0200" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126080000 -0200" stop="20171126090000 -0200" channel="ESPN">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126090000 -0200" stop="20171126105500 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126105500 -0200" stop="20171126115500 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126115500 -0200" stop="20171126143000 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126143000 -0200" stop="20171126150000 -0200" channel="ESPN">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126150000 -0200" stop="20171126170000 -0200" channel="ESPN">
+    <title lang="pt">Lazio x Vitesse - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126170000 -0200" stop="20171126190000 -0200" channel="ESPN">
+    <title lang="pt">Milan x Austria Viena - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126190000 -0200" stop="20171126204000 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126204000 -0200" stop="20171126214000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126214000 -0200" stop="20171126224000 -0200" channel="ESPN">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126224000 -0200" stop="20171126234000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126234000 -0200" stop="20171127003000 -0200" channel="ESPN">
+    <title lang="pt">Espn Filmes: 30 For 30: Nature Boy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127003000 -0200" stop="20171127030000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings - Vivo</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127030000 -0200" stop="20171127050000 -0200" channel="ESPN">
+    <title lang="pt">Surfe Compacto: WSL Bells Beach (AUS)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127050000 -0200" stop="20171127060000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127060000 -0200" stop="20171127070000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127070000 -0200" stop="20171127080000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127080000 -0200" stop="20171127103000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127103000 -0200" stop="20171127130000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127130000 -0200" stop="20171127140000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127140000 -0200" stop="20171127143000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127143000 -0200" stop="20171127180000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Minnesota Vikings x Detroit Lions - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127180000 -0200" stop="20171127183000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127183000 -0200" stop="20171127220000 -0200" channel="ESPN">
+    <title lang="pt">NFL: Los Angeles Chargers x Dallas Cowboys - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127220000 -0200" stop="20171127221500 -0200" channel="ESPN">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127221500 -0200" stop="20171128000000 -0200" channel="ESPN">
+    <title lang="pt">NFL: New York Giants x Washington Redskin - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128000000 -0200" stop="20171128020000 -0200" channel="ESPN">
+    <title lang="pt">Columbus Crew SC x Toronto FC</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128020000 -0200" stop="20171128030000 -0200" channel="ESPN">
+    <title lang="pt">Espn League</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128030000 -0200" stop="20171128040000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128040000 -0200" stop="20171128043000 -0200" channel="ESPN">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128043000 -0200" stop="20171128070000 -0200" channel="ESPN">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128070000 -0200" stop="20171128090000 -0200" channel="ESPN">
+    <title lang="pt">Manchester United x Newcastle</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128090000 -0200" stop="20171128100000 -0200" channel="ESPN">
+    <title lang="pt">ESPN AGORA</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128100000 -0200" stop="20171128110000 -0200" channel="ESPN">
+    <title lang="pt">Compacto NFL</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128110000 -0200" stop="20171128125500 -0200" channel="ESPN">
+    <title lang="pt">Surfe Compacto: WSL Fiji Pro (FIJ)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128125500 -0200" stop="20171128145500 -0200" channel="ESPN">
+    <title lang="pt">Astana x Villarreal - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128145500 -0200" stop="20171128170000 -0200" channel="ESPN">
+    <title lang="pt">Konyaspor x Olympique de Marselha - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128170000 -0200" stop="20171128190000 -0200" channel="ESPN">
+    <title lang="pt">Everton x Atalanta - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128190000 -0200" stop="20171128193000 -0200" channel="ESPN">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128193000 -0200" stop="20171128200000 -0200" channel="ESPN">
+    <title lang="pt">ATP World Tour Semanal</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128200000 -0200" stop="20171128210000 -0200" channel="ESPN">
+    <title lang="pt">Poker Stars</title>
+    <desc lang="pt">O pôquer, classificado com um esporte mental, é o jogo de cartas que mais se popularizou nas últimas décadas. As transmissões dos melhores eventos profissionais estão nos canais ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128210000 -0200" stop="20171128230000 -0200" channel="ESPN">
+    <title lang="pt">Milan x Austria Viena</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128230000 -0200" stop="20171128233000 -0200" channel="ESPN">
+    <title lang="pt">Olhar ESPN W</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128233000 -0200" stop="20171129011000 -0200" channel="ESPN">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129011000 -0200" stop="20171129014000 -0200" channel="ESPN">
+    <title lang="pt">Prévia do Campeonato Alemão</title>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Bundesliga. Análises táticas, curiosidades, perfis e reportagens exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129014000 -0200" stop="20171129021000 -0200" channel="ESPN">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129021000 -0200" stop="20171129040000 -0200" channel="ESPN">
+    <title lang="pt">Milan x Austria Viena</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129040000 -0200" stop="20171129050000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129050000 -0200" stop="20171129070000 -0200" channel="ESPN">
+    <title lang="pt">Arsenal x Tottenham</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129070000 -0200" stop="20171129080000 -0200" channel="ESPN">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129080000 -0200" stop="20171129090000 -0200" channel="ESPN">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129090000 -0200" stop="20171129105500 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129105500 -0200" stop="20171129115500 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129115500 -0200" stop="20171129143000 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129143000 -0200" stop="20171129153000 -0200" channel="ESPN">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129153000 -0200" stop="20171129165000 -0200" channel="ESPN">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129165000 -0200" stop="20171129190000 -0200" channel="ESPN">
+    <title lang="pt">West Ham x Leicester City - Vivo</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129190000 -0200" stop="20171129200000 -0200" channel="ESPN">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129200000 -0200" stop="20171129220000 -0200" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129220000 -0200" stop="20171129230000 -0200" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129230000 -0200" stop="20171130013000 -0200" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123004000 -0200" stop="20171123014000 -0200" channel="ESPN +">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123014000 -0200" stop="20171123024000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN Filmes: 30 For 30: Tommy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123024000 -0200" stop="20171123034000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123034000 -0200" stop="20171123051000 -0200" channel="ESPN +">
+    <title lang="pt">Bola da Vez</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123051000 -0200" stop="20171123070000 -0200" channel="ESPN +">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123070000 -0200" stop="20171123080000 -0200" channel="ESPN +">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123080000 -0200" stop="20171123090000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123090000 -0200" stop="20171123105500 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123105500 -0200" stop="20171123115500 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123115500 -0200" stop="20171123143000 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123143000 -0200" stop="20171123150000 -0200" channel="ESPN +">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123150000 -0200" stop="20171123170000 -0200" channel="ESPN +">
+    <title lang="pt">Lazio x Vitesse - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123170000 -0200" stop="20171123190000 -0200" channel="ESPN +">
+    <title lang="pt">Milan x Austria Viena - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123190000 -0200" stop="20171123204000 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123204000 -0200" stop="20171123214000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123214000 -0200" stop="20171123224000 -0200" channel="ESPN +">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123224000 -0200" stop="20171123234000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123234000 -0200" stop="20171124003000 -0200" channel="ESPN +">
+    <title lang="pt">Espn Filmes: 30 For 30: Nature Boy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124003000 -0200" stop="20171124030000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings - Vivo</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124030000 -0200" stop="20171124050000 -0200" channel="ESPN +">
+    <title lang="pt">Surfe Compacto: WSL Bells Beach (AUS)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124050000 -0200" stop="20171124060000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124060000 -0200" stop="20171124070000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124070000 -0200" stop="20171124080000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124080000 -0200" stop="20171124103000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124103000 -0200" stop="20171124130000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124130000 -0200" stop="20171124140000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124140000 -0200" stop="20171124143000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124143000 -0200" stop="20171124180000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Minnesota Vikings x Detroit Lions - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124180000 -0200" stop="20171124183000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124183000 -0200" stop="20171124220000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Los Angeles Chargers x Dallas Cowboys - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124220000 -0200" stop="20171124221500 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124221500 -0200" stop="20171125000000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: New York Giants x Washington Redskin - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125000000 -0200" stop="20171125020000 -0200" channel="ESPN +">
+    <title lang="pt">Columbus Crew SC x Toronto FC</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125020000 -0200" stop="20171125030000 -0200" channel="ESPN +">
+    <title lang="pt">Espn League</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125030000 -0200" stop="20171125040000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125040000 -0200" stop="20171125043000 -0200" channel="ESPN +">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125043000 -0200" stop="20171125070000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125070000 -0200" stop="20171125090000 -0200" channel="ESPN +">
+    <title lang="pt">Manchester United x Newcastle</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125090000 -0200" stop="20171125100000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN AGORA</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125100000 -0200" stop="20171125110000 -0200" channel="ESPN +">
+    <title lang="pt">Compacto NFL</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125110000 -0200" stop="20171125125500 -0200" channel="ESPN +">
+    <title lang="pt">Surfe Compacto: WSL Fiji Pro (FIJ)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125125500 -0200" stop="20171125145500 -0200" channel="ESPN +">
+    <title lang="pt">Astana x Villarreal - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125145500 -0200" stop="20171125170000 -0200" channel="ESPN +">
+    <title lang="pt">Konyaspor x Olympique de Marselha - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125170000 -0200" stop="20171125190000 -0200" channel="ESPN +">
+    <title lang="pt">Everton x Atalanta - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125190000 -0200" stop="20171125193000 -0200" channel="ESPN +">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125193000 -0200" stop="20171125200000 -0200" channel="ESPN +">
+    <title lang="pt">ATP World Tour Semanal</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125200000 -0200" stop="20171125210000 -0200" channel="ESPN +">
+    <title lang="pt">Poker Stars</title>
+    <desc lang="pt">O pôquer, classificado com um esporte mental, é o jogo de cartas que mais se popularizou nas últimas décadas. As transmissões dos melhores eventos profissionais estão nos canais ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125210000 -0200" stop="20171125230000 -0200" channel="ESPN +">
+    <title lang="pt">Milan x Austria Viena</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125230000 -0200" stop="20171125233000 -0200" channel="ESPN +">
+    <title lang="pt">Olhar ESPN W</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125233000 -0200" stop="20171126004000 -0200" channel="ESPN +">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126004000 -0200" stop="20171126014000 -0200" channel="ESPN +">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126014000 -0200" stop="20171126024000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN Filmes: 30 For 30: Tommy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126024000 -0200" stop="20171126034000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126034000 -0200" stop="20171126051000 -0200" channel="ESPN +">
+    <title lang="pt">Bola da Vez</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126051000 -0200" stop="20171126070000 -0200" channel="ESPN +">
+    <title lang="pt">Leicester City x Manchester City</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126070000 -0200" stop="20171126080000 -0200" channel="ESPN +">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126080000 -0200" stop="20171126090000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126090000 -0200" stop="20171126105500 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126105500 -0200" stop="20171126115500 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126115500 -0200" stop="20171126143000 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126143000 -0200" stop="20171126150000 -0200" channel="ESPN +">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126150000 -0200" stop="20171126170000 -0200" channel="ESPN +">
+    <title lang="pt">Lazio x Vitesse - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126170000 -0200" stop="20171126190000 -0200" channel="ESPN +">
+    <title lang="pt">Milan x Austria Viena - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126190000 -0200" stop="20171126204000 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126204000 -0200" stop="20171126214000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126214000 -0200" stop="20171126224000 -0200" channel="ESPN +">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126224000 -0200" stop="20171126234000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126234000 -0200" stop="20171127003000 -0200" channel="ESPN +">
+    <title lang="pt">Espn Filmes: 30 For 30: Nature Boy</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127003000 -0200" stop="20171127030000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings - Vivo</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127030000 -0200" stop="20171127050000 -0200" channel="ESPN +">
+    <title lang="pt">Surfe Compacto: WSL Bells Beach (AUS)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127050000 -0200" stop="20171127060000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127060000 -0200" stop="20171127070000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127070000 -0200" stop="20171127080000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127080000 -0200" stop="20171127103000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Los Angeles Lakers x Sacramento Kings</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127103000 -0200" stop="20171127130000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127130000 -0200" stop="20171127140000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127140000 -0200" stop="20171127143000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127143000 -0200" stop="20171127180000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Minnesota Vikings x Detroit Lions - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127180000 -0200" stop="20171127183000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127183000 -0200" stop="20171127220000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Los Angeles Chargers x Dallas Cowboys - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127220000 -0200" stop="20171127221500 -0200" channel="ESPN +">
+    <title lang="pt">NFL: Abre O Jogo - Vivo</title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127221500 -0200" stop="20171128000000 -0200" channel="ESPN +">
+    <title lang="pt">NFL: New York Giants x Washington Redskin - Vivo</title>
+    <desc lang="pt">NFL é na ESPN Você acompanha mais de 100 jogos ao vivo durante a temporada, além dos playoffs e do Super Bowl. Acesse www.espn.com.br e confira a programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128000000 -0200" stop="20171128020000 -0200" channel="ESPN +">
+    <title lang="pt">Columbus Crew SC x Toronto FC</title>
+    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128020000 -0200" stop="20171128030000 -0200" channel="ESPN +">
+    <title lang="pt">Espn League</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128030000 -0200" stop="20171128040000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128040000 -0200" stop="20171128043000 -0200" channel="ESPN +">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128043000 -0200" stop="20171128070000 -0200" channel="ESPN +">
+    <title lang="pt">NBA: Golden State Warriors x Oklahoma City Thunder</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128070000 -0200" stop="20171128090000 -0200" channel="ESPN +">
+    <title lang="pt">Manchester United x Newcastle</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128090000 -0200" stop="20171128100000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN AGORA</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128100000 -0200" stop="20171128110000 -0200" channel="ESPN +">
+    <title lang="pt">Compacto NFL</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128110000 -0200" stop="20171128125500 -0200" channel="ESPN +">
+    <title lang="pt">Surfe Compacto: WSL Fiji Pro (FIJ)</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128125500 -0200" stop="20171128145500 -0200" channel="ESPN +">
+    <title lang="pt">Astana x Villarreal - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128145500 -0200" stop="20171128170000 -0200" channel="ESPN +">
+    <title lang="pt">Konyaspor x Olympique de Marselha - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128170000 -0200" stop="20171128190000 -0200" channel="ESPN +">
+    <title lang="pt">Everton x Atalanta - Vivo</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128190000 -0200" stop="20171128193000 -0200" channel="ESPN +">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128193000 -0200" stop="20171128200000 -0200" channel="ESPN +">
+    <title lang="pt">ATP World Tour Semanal</title>
+    <desc lang="pt">Revista semanal sobre o circuito mundial da ATP. Reportagens, matérias exclusivas, entrevistas e análises sobre o melhor do tênis profissional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128200000 -0200" stop="20171128210000 -0200" channel="ESPN +">
+    <title lang="pt">Poker Stars</title>
+    <desc lang="pt">O pôquer, classificado com um esporte mental, é o jogo de cartas que mais se popularizou nas últimas décadas. As transmissões dos melhores eventos profissionais estão nos canais ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128210000 -0200" stop="20171128230000 -0200" channel="ESPN +">
+    <title lang="pt">Milan x Austria Viena</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128230000 -0200" stop="20171128233000 -0200" channel="ESPN +">
+    <title lang="pt">Olhar ESPN W</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128233000 -0200" stop="20171129011000 -0200" channel="ESPN +">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129011000 -0200" stop="20171129014000 -0200" channel="ESPN +">
+    <title lang="pt">Prévia do Campeonato Alemão</title>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Bundesliga. Análises táticas, curiosidades, perfis e reportagens exclusivas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129014000 -0200" stop="20171129021000 -0200" channel="ESPN +">
+    <title lang="pt">Futebol No Mundo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129021000 -0200" stop="20171129040000 -0200" channel="ESPN +">
+    <title lang="pt">Milan x Austria Viena</title>
+    <desc lang="pt">Grandes jogadores, equipes tradicionais, torcidas fanáticas e duelos equilibrados. Estes são os ingredientes da segunda competição de clubes mais importante da Europa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129040000 -0200" stop="20171129050000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129050000 -0200" stop="20171129070000 -0200" channel="ESPN +">
+    <title lang="pt">Arsenal x Tottenham</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129070000 -0200" stop="20171129080000 -0200" channel="ESPN +">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129080000 -0200" stop="20171129090000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129090000 -0200" stop="20171129105500 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129105500 -0200" stop="20171129115500 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129115500 -0200" stop="20171129143000 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129143000 -0200" stop="20171129153000 -0200" channel="ESPN +">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129153000 -0200" stop="20171129165000 -0200" channel="ESPN +">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129165000 -0200" stop="20171129190000 -0200" channel="ESPN +">
+    <title lang="pt">West Ham x Leicester City - Vivo</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129190000 -0200" stop="20171129200000 -0200" channel="ESPN +">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129200000 -0200" stop="20171129220000 -0200" channel="ESPN +">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129220000 -0200" stop="20171129230000 -0200" channel="ESPN +">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129230000 -0200" stop="20171130013000 -0200" channel="ESPN +">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123003000 -0200" stop="20171123021500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123021500 -0200" stop="20171123031500 -0200" channel="Fox Sports">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <desc lang="pt">Acompanhe semanalmente e fique por dentro dos gols, os melhores lances e o resumo de tudo da rodada está no Show do Campeonato Espanhol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123031500 -0200" stop="20171123041500 -0200" channel="Fox Sports">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123041500 -0200" stop="20171123060000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Libertad x Independiente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123060000 -0200" stop="20171123063000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123063000 -0200" stop="20171123080000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123080000 -0200" stop="20171123110000 -0200" channel="Fox Sports">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123110000 -0200" stop="20171123114500 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123114500 -0200" stop="20171123143000 -0200" channel="Fox Sports">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123143000 -0200" stop="20171123150000 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123150000 -0200" stop="20171123170000 -0200" channel="Fox Sports">
+    <title lang="pt">Köln x Arsenal - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123170000 -0200" stop="20171123190000 -0200" channel="Fox Sports">
+    <title lang="pt">Lyon x Apollon - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123190000 -0200" stop="20171123200000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123200000 -0200" stop="20171123204500 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123204500 -0200" stop="20171123224500 -0200" channel="Fox Sports">
+    <title lang="pt">Flamengo x Jr. Barranquilla - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123224500 -0200" stop="20171124000000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124000000 -0200" stop="20171124014500 -0200" channel="Fox Sports">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124014500 -0200" stop="20171124021500 -0200" channel="Fox Sports">
+    <title lang="pt">Volvo Ocean Race</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124021500 -0200" stop="20171124024500 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124024500 -0200" stop="20171124031500 -0200" channel="Fox Sports">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124031500 -0200" stop="20171124041500 -0200" channel="Fox Sports">
+    <title lang="pt">WEC: Bahrein</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124041500 -0200" stop="20171124060000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124060000 -0200" stop="20171124070000 -0200" channel="Fox Sports">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124070000 -0200" stop="20171124073000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124073000 -0200" stop="20171124090000 -0200" channel="Fox Sports">
+    <title lang="pt">Liga ACB: Barcelona x Valencia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124090000 -0200" stop="20171124093000 -0200" channel="Fox Sports">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124093000 -0200" stop="20171124111500 -0200" channel="Fox Sports">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124111500 -0200" stop="20171124114500 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124114500 -0200" stop="20171124133000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124133000 -0200" stop="20171124143000 -0200" channel="Fox Sports">
+    <title lang="pt">Magazine Europa League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124143000 -0200" stop="20171124150000 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124150000 -0200" stop="20171124170000 -0200" channel="Fox Sports">
+    <title lang="pt">Athletic Bilbao x Hertha Berlin - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124170000 -0200" stop="20171124190000 -0200" channel="Fox Sports">
+    <title lang="pt">Braga x Hoffenheim - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124190000 -0200" stop="20171124200000 -0200" channel="Fox Sports">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124200000 -0200" stop="20171124203000 -0200" channel="Fox Sports">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124203000 -0200" stop="20171124221500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124221500 -0200" stop="20171124224500 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124224500 -0200" stop="20171124231500 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124231500 -0200" stop="20171125003000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125003000 -0200" stop="20171125021500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125021500 -0200" stop="20171125031500 -0200" channel="Fox Sports">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <desc lang="pt">Acompanhe semanalmente e fique por dentro dos gols, os melhores lances e o resumo de tudo da rodada está no Show do Campeonato Espanhol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125031500 -0200" stop="20171125041500 -0200" channel="Fox Sports">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <desc lang="pt">Os gols, os melhores lances e o resumo da Bundesliga está no Show do Campeonato Alemão. Acompanhe semanalmente e fique por dentro de tudo o que acontece na competição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125041500 -0200" stop="20171125060000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Libertad x Independiente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125060000 -0200" stop="20171125063000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125063000 -0200" stop="20171125080000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125080000 -0200" stop="20171125110000 -0200" channel="Fox Sports">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125110000 -0200" stop="20171125114500 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125114500 -0200" stop="20171125143000 -0200" channel="Fox Sports">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125143000 -0200" stop="20171125150000 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125150000 -0200" stop="20171125170000 -0200" channel="Fox Sports">
+    <title lang="pt">Köln x Arsenal - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125170000 -0200" stop="20171125190000 -0200" channel="Fox Sports">
+    <title lang="pt">Lyon x Apollon - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125190000 -0200" stop="20171125200000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125200000 -0200" stop="20171125204500 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125204500 -0200" stop="20171125224500 -0200" channel="Fox Sports">
+    <title lang="pt">Flamengo x Jr. Barranquilla - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125224500 -0200" stop="20171126000000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126000000 -0200" stop="20171126014500 -0200" channel="Fox Sports">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126014500 -0200" stop="20171126021500 -0200" channel="Fox Sports">
+    <title lang="pt">Volvo Ocean Race</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126021500 -0200" stop="20171126024500 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126024500 -0200" stop="20171126031500 -0200" channel="Fox Sports">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126031500 -0200" stop="20171126041500 -0200" channel="Fox Sports">
+    <title lang="pt">WEC: Bahrein</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126041500 -0200" stop="20171126060000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126060000 -0200" stop="20171126070000 -0200" channel="Fox Sports">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126070000 -0200" stop="20171126073000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126073000 -0200" stop="20171126090000 -0200" channel="Fox Sports">
+    <title lang="pt">Liga ACB: Barcelona x Valencia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126090000 -0200" stop="20171126093000 -0200" channel="Fox Sports">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126093000 -0200" stop="20171126111500 -0200" channel="Fox Sports">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126111500 -0200" stop="20171126114500 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126114500 -0200" stop="20171126133000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126133000 -0200" stop="20171126143000 -0200" channel="Fox Sports">
+    <title lang="pt">Magazine Europa League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126143000 -0200" stop="20171126150000 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126150000 -0200" stop="20171126170000 -0200" channel="Fox Sports">
+    <title lang="pt">Athletic Bilbao x Hertha Berlin - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126170000 -0200" stop="20171126190000 -0200" channel="Fox Sports">
+    <title lang="pt">Braga x Hoffenheim - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126190000 -0200" stop="20171126200000 -0200" channel="Fox Sports">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126200000 -0200" stop="20171126203000 -0200" channel="Fox Sports">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126203000 -0200" stop="20171126221500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126221500 -0200" stop="20171126224500 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126224500 -0200" stop="20171126231500 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126231500 -0200" stop="20171127003000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127003000 -0200" stop="20171127021500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127021500 -0200" stop="20171127024500 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127024500 -0200" stop="20171127031500 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127031500 -0200" stop="20171127050000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127050000 -0200" stop="20171127053000 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127053000 -0200" stop="20171127060000 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127060000 -0200" stop="20171127063000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127063000 -0200" stop="20171127080000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127080000 -0200" stop="20171127110000 -0200" channel="Fox Sports">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127110000 -0200" stop="20171127114500 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127114500 -0200" stop="20171127143000 -0200" channel="Fox Sports">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127143000 -0200" stop="20171127163000 -0200" channel="Fox Sports">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127163000 -0200" stop="20171127190000 -0200" channel="Fox Sports">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127190000 -0200" stop="20171127200000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127200000 -0200" stop="20171127210000 -0200" channel="Fox Sports">
+    <title lang="pt">Raio Fox</title>
+    <desc lang="pt">Um dos maiores analistas de futebol do Brasil, Paulo Vinícius Coelho (PVC) estáao lado de Rodrigo Buenoe Gustavo Villani no Raio Fox(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127210000 -0200" stop="20171127223000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127223000 -0200" stop="20171127233000 -0200" channel="Fox Sports">
+    <title lang="pt">Cesta com Oscar</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127233000 -0200" stop="20171128010000 -0200" channel="Fox Sports">
+    <title lang="pt">Fox Fight Club</title>
+    <desc lang="pt">Nas noites de sexta, Éder Reis apresenta o programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128010000 -0200" stop="20171128013000 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128013000 -0200" stop="20171128020000 -0200" channel="Fox Sports">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128020000 -0200" stop="20171128023000 -0200" channel="Fox Sports">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128023000 -0200" stop="20171128041500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Libertad x Independiente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128041500 -0200" stop="20171128060000 -0200" channel="Fox Sports">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128060000 -0200" stop="20171128064500 -0200" channel="Fox Sports">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128064500 -0200" stop="20171128071500 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128071500 -0200" stop="20171128074500 -0200" channel="Fox Sports">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128074500 -0200" stop="20171128084500 -0200" channel="Fox Sports">
+    <title lang="pt">WTCC: Macau</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128084500 -0200" stop="20171128091500 -0200" channel="Fox Sports">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128091500 -0200" stop="20171128094500 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128094500 -0200" stop="20171128101500 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128101500 -0200" stop="20171128104500 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128104500 -0200" stop="20171128111500 -0200" channel="Fox Sports">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128111500 -0200" stop="20171128114500 -0200" channel="Fox Sports">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128114500 -0200" stop="20171128133000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Lyon x Apollon</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128133000 -0200" stop="20171128151500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128151500 -0200" stop="20171128154500 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128154500 -0200" stop="20171128161500 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128161500 -0200" stop="20171128163000 -0200" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128163000 -0200" stop="20171128183000 -0200" channel="Fox Sports">
+    <title lang="pt">Leipzig x Werder Bremen - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128183000 -0200" stop="20171128200000 -0200" channel="Fox Sports">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128200000 -0200" stop="20171128214500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128214500 -0200" stop="20171129003000 -0200" channel="Fox Sports">
+    <title lang="pt">Expediente Futebol</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129003000 -0200" stop="20171129021500 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129021500 -0200" stop="20171129024500 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129024500 -0200" stop="20171129031500 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129031500 -0200" stop="20171129050000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129050000 -0200" stop="20171129053000 -0200" channel="Fox Sports">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129053000 -0200" stop="20171129060000 -0200" channel="Fox Sports">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129060000 -0200" stop="20171129063000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129063000 -0200" stop="20171129080000 -0200" channel="Fox Sports">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129080000 -0200" stop="20171129110000 -0200" channel="Fox Sports">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129110000 -0200" stop="20171129114500 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129114500 -0200" stop="20171129143000 -0200" channel="Fox Sports">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129143000 -0200" stop="20171129163000 -0200" channel="Fox Sports">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129163000 -0200" stop="20171129190000 -0200" channel="Fox Sports">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129190000 -0200" stop="20171129200000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129200000 -0200" stop="20171129210000 -0200" channel="Fox Sports">
+    <title lang="pt">Raio Fox</title>
+    <desc lang="pt">Um dos maiores analistas de futebol do Brasil, Paulo Vinícius Coelho (PVC) estáao lado de Rodrigo Buenoe Gustavo Villani no Raio Fox(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129210000 -0200" stop="20171129223000 -0200" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129223000 -0200" stop="20171129233000 -0200" channel="Fox Sports">
+    <title lang="pt">Cesta com Oscar</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129233000 -0200" stop="20171130010000 -0200" channel="Fox Sports">
+    <title lang="pt">Fox Fight Club</title>
+    <desc lang="pt">Nas noites de sexta, Éder Reis apresenta o programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123000000 -0200" stop="20171123014500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123014500 -0200" stop="20171123021500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Volvo Ocean Race</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123021500 -0200" stop="20171123024500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123024500 -0200" stop="20171123031500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123031500 -0200" stop="20171123041500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WEC: Bahrein</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123041500 -0200" stop="20171123060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123060000 -0200" stop="20171123070000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123070000 -0200" stop="20171123073000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123073000 -0200" stop="20171123090000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Liga ACB: Barcelona x Valencia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123090000 -0200" stop="20171123093000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123093000 -0200" stop="20171123111500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123111500 -0200" stop="20171123114500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123114500 -0200" stop="20171123133000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123133000 -0200" stop="20171123143000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Magazine Europa League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123143000 -0200" stop="20171123150000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123150000 -0200" stop="20171123170000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Athletic Bilbao x Hertha Berlin - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123170000 -0200" stop="20171123190000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Braga x Hoffenheim - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123190000 -0200" stop="20171123200000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123200000 -0200" stop="20171123203000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123203000 -0200" stop="20171123221500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123221500 -0200" stop="20171123224500 -0200" channel="Fox Sports 2">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123224500 -0200" stop="20171123231500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171123231500 -0200" stop="20171124000000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124000000 -0200" stop="20171124014500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124014500 -0200" stop="20171124021500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Volvo Ocean Race</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124021500 -0200" stop="20171124024500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124024500 -0200" stop="20171124031500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124031500 -0200" stop="20171124041500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WEC: Bahrein</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124041500 -0200" stop="20171124060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124060000 -0200" stop="20171124070000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Vintage</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124070000 -0200" stop="20171124073000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124073000 -0200" stop="20171124090000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Liga ACB: Barcelona x Valencia</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124090000 -0200" stop="20171124093000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124093000 -0200" stop="20171124111500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124111500 -0200" stop="20171124114500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124114500 -0200" stop="20171124133000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124133000 -0200" stop="20171124143000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Magazine Europa League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124143000 -0200" stop="20171124150000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124150000 -0200" stop="20171124170000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Athletic Bilbao x Hertha Berlin - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124170000 -0200" stop="20171124190000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Braga x Hoffenheim - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124190000 -0200" stop="20171124200000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124200000 -0200" stop="20171124203000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124203000 -0200" stop="20171124221500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124221500 -0200" stop="20171124224500 -0200" channel="Fox Sports 2">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124224500 -0200" stop="20171124231500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171124231500 -0200" stop="20171125010000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125010000 -0200" stop="20171125013000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125013000 -0200" stop="20171125020000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125020000 -0200" stop="20171125023000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125023000 -0200" stop="20171125041500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Libertad x Independiente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125041500 -0200" stop="20171125060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125060000 -0200" stop="20171125064500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125064500 -0200" stop="20171125071500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125071500 -0200" stop="20171125074500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125074500 -0200" stop="20171125084500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WTCC: Macau</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125084500 -0200" stop="20171125091500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125091500 -0200" stop="20171125094500 -0200" channel="Fox Sports 2">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125094500 -0200" stop="20171125101500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125101500 -0200" stop="20171125104500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125104500 -0200" stop="20171125111500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125111500 -0200" stop="20171125114500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125114500 -0200" stop="20171125133000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Lyon x Apollon</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125133000 -0200" stop="20171125151500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125151500 -0200" stop="20171125154500 -0200" channel="Fox Sports 2">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125154500 -0200" stop="20171125161500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125161500 -0200" stop="20171125163000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125163000 -0200" stop="20171125183000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Leipzig x Werder Bremen - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125183000 -0200" stop="20171125200000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125200000 -0200" stop="20171125214500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171125214500 -0200" stop="20171126010000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Expediente Futebol</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126010000 -0200" stop="20171126013000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126013000 -0200" stop="20171126020000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126020000 -0200" stop="20171126023000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126023000 -0200" stop="20171126041500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Libertad x Independiente</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126041500 -0200" stop="20171126060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <desc lang="pt">No Fox Sports, você acompanha na íntegra as partidas do mais importante campeonato nacional de futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126060000 -0200" stop="20171126064500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126064500 -0200" stop="20171126071500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126071500 -0200" stop="20171126074500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126074500 -0200" stop="20171126084500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WTCC: Macau</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126084500 -0200" stop="20171126091500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126091500 -0200" stop="20171126094500 -0200" channel="Fox Sports 2">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126094500 -0200" stop="20171126101500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126101500 -0200" stop="20171126104500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126104500 -0200" stop="20171126111500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126111500 -0200" stop="20171126114500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126114500 -0200" stop="20171126133000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Lyon x Apollon</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126133000 -0200" stop="20171126151500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Köln x Arsenal</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126151500 -0200" stop="20171126154500 -0200" channel="Fox Sports 2">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126154500 -0200" stop="20171126161500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126161500 -0200" stop="20171126163000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126163000 -0200" stop="20171126183000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Leipzig x Werder Bremen - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126183000 -0200" stop="20171126200000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126200000 -0200" stop="20171126214500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171126214500 -0200" stop="20171127001500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Expediente Futebol</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127001500 -0200" stop="20171127030000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fox Sports Rádio</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127030000 -0200" stop="20171127033000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fox Fight Club</title>
+    <desc lang="pt">Nas noites de sexta, Éder Reis apresenta o programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127033000 -0200" stop="20171127034500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127034500 -0200" stop="20171127041500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127041500 -0200" stop="20171127060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127060000 -0200" stop="20171127070000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WTCC: Macau</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127070000 -0200" stop="20171127073000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127073000 -0200" stop="20171127080000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127080000 -0200" stop="20171127083000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127083000 -0200" stop="20171127090000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127090000 -0200" stop="20171127093000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127093000 -0200" stop="20171127111500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127111500 -0200" stop="20171127113000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fox Workout</title>
+    <desc lang="pt">O FOX Workout analisa alguns dos esportes mais praticados do Brasil, mostra de perto e por todos os ângulos diferentes modalidades e suas particularidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127113000 -0200" stop="20171127120000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127120000 -0200" stop="20171127123000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Show da Europa League</title>
+    <desc lang="pt">Saiba tudo que aconteceu e fique por dentro dos gols, os melhores lances e o resumo de toda a rodada no Show da Europa League(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127123000 -0200" stop="20171127141500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127141500 -0200" stop="20171127143000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127143000 -0200" stop="20171127163000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Betis x Girona - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127163000 -0200" stop="20171127164500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127164500 -0200" stop="20171127184500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Levante x Atlético de Madrid - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127184500 -0200" stop="20171127203000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - M'gladbach x Bayern</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127203000 -0200" stop="20171127221500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Leipzig x Werder Bremen</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171127221500 -0200" stop="20171128001500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Ferroviária x Inter Limeira</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128001500 -0200" stop="20171128030000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fox Sports Rádio</title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128030000 -0200" stop="20171128033000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fox Fight Club</title>
+    <desc lang="pt">Nas noites de sexta, Éder Reis apresenta o programa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128033000 -0200" stop="20171128034500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128034500 -0200" stop="20171128041500 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128041500 -0200" stop="20171128060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128060000 -0200" stop="20171128070000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WTCC: Macau</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128070000 -0200" stop="20171128073000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128073000 -0200" stop="20171128080000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128080000 -0200" stop="20171128083000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128083000 -0200" stop="20171128090000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128090000 -0200" stop="20171128093000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128093000 -0200" stop="20171128111500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Grêmio x Lanús (ARG)</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128111500 -0200" stop="20171128113000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fox Workout</title>
+    <desc lang="pt">O FOX Workout analisa alguns dos esportes mais praticados do Brasil, mostra de perto e por todos os ângulos diferentes modalidades e suas particularidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128113000 -0200" stop="20171128120000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128120000 -0200" stop="20171128123000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Show da Europa League</title>
+    <desc lang="pt">Saiba tudo que aconteceu e fique por dentro dos gols, os melhores lances e o resumo de toda a rodada no Show da Europa League(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128123000 -0200" stop="20171128141500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Flamengo x Jr. Barranquilla</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128141500 -0200" stop="20171128143000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128143000 -0200" stop="20171128163000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Betis x Girona - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128163000 -0200" stop="20171128164500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128164500 -0200" stop="20171128184500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Levante x Atlético de Madrid - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128184500 -0200" stop="20171128203000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - M'gladbach x Bayern</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128203000 -0200" stop="20171128221500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Leipzig x Werder Bremen</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171128221500 -0200" stop="20171129000000 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Ferroviária x Inter Limeira</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129000000 -0200" stop="20171129010000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129010000 -0200" stop="20171129020000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129020000 -0200" stop="20171129033000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129033000 -0200" stop="20171129040000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129040000 -0200" stop="20171129043000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129043000 -0200" stop="20171129050000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WRC - Austrália</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129050000 -0200" stop="20171129060000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WTCC: Macau</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129060000 -0200" stop="20171129070000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WEC: Bahrein</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129070000 -0200" stop="20171129073000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129073000 -0200" stop="20171129080000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129080000 -0200" stop="20171129094500 -0200" channel="Fox Sports 2">
+    <title lang="pt">VT - Levante x Atlético de Madrid</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129094500 -0200" stop="20171129104500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Cesta com Oscar</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129104500 -0200" stop="20171129110000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129110000 -0200" stop="20171129130000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Udinese x Napoli - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129130000 -0200" stop="20171129140000 -0200" channel="Fox Sports 2">
+    <title lang="pt">WEC: Bahrein</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129140000 -0200" stop="20171129160000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Lazio x Fiorentina - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129160000 -0200" stop="20171129163000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Show da Europa League</title>
+    <desc lang="pt">Saiba tudo que aconteceu e fique por dentro dos gols, os melhores lances e o resumo de toda a rodada no Show da Europa League(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129163000 -0200" stop="20171129164500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129164500 -0200" stop="20171129184500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Juventus x Crotone - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129184500 -0200" stop="20171129190000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pós Jogo - Vivo</title>
+    <desc lang="pt">Depois da partida, não perca um resumo, com os melhores lances, os gols, estatísticas e a classificação atualizada do campeonato(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129190000 -0200" stop="20171129191500 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129191500 -0200" stop="20171129211500 -0200" channel="Fox Sports 2">
+    <title lang="pt">River Plate x Newell's Old Boys - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129211500 -0200" stop="20171129213000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129213000 -0200" stop="20171129233000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Rosario Central x Boca Juniors - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20171129233000 -0200" stop="20171130000000 -0200" channel="Fox Sports 2">
+    <title lang="pt">Aqui Com Benja</title>
+    <desc lang="pt">Benjamin Back recebe personalidades do mundo esportivo para um papo descontraído e revelador(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
